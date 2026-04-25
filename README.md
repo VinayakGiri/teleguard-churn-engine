@@ -26,8 +26,10 @@ Upload any Telco churn CSV and get real-time predictions, risk scores, and an AI
 ---
 
 ## 📸 Screenshots
-
-![TeleGuard dashboard showing batch churn predictions](screenshots/dashboard_batch.png)
+<img width="1050" height="750" alt="confusion_matrix" src="https://github.com/user-attachments/assets/82ee8cf0-c7bb-4456-9f7c-8f72ddec7c2d" />
+<img width="1396" height="668" alt="dashboard_batch" src="https://github.com/user-attachments/assets/15437d5b-64b7-4099-9779-91bedeca215a" />
+<img width="1393" height="737" alt="dashboard_single" src="https://github.com/user-attachments/assets/7f794e6a-8263-46e8-a094-0a09faf4728e" />
+<img width="1391" height="725" alt="dashboard_model" src="https://github.com/user-attachments/assets/565df810-ecd2-4c6a-a359-529d3a510f07" />
 
 ---
 

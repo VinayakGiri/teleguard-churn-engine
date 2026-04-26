@@ -1,0 +1,17 @@
+[
+    {
+        "model": "Logistic Regression",
+        "accuracy": 0.8038,
+        "auc": 0.8357
+    },
+    {
+        "model": "Decision Tree",
+        "accuracy": 0.7854,
+        "auc": 0.8155
+    },
+    {
+        "model": "Random Forest",
+        "accuracy": 0.7868,
+        "auc": 0.8177
+    }
+]

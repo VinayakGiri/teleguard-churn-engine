@@ -19,7 +19,7 @@
 
 ## 🚀 Live Demo
 
-👉 **[Launch TeleGuard Dashboard](https://YOUR-DEMO-LINK-HERE)**
+👉 **[Launch TeleGuard Dashboard](https://teleguard-churn-engine-raypo65xghgkadmtuvhle8.streamlit.app)**
 
 Upload any Telco churn CSV and get real-time predictions, risk scores, and an AI-generated retention strategy in under 5 seconds.
 
